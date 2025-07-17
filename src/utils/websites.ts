@@ -30,8 +30,8 @@ export const websites = [
   {
     name: "my-protfolio",
     image: myPortfolio,
-    url: "#",
-    domain: "#",
+    url: "https://code-spiral.vercel.app/",
+    domain: "code-spiral.vercel.app",
     category: [
       category.webDesign,
       category.responsiveWeb,

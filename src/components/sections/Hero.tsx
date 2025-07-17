@@ -6,7 +6,7 @@ import { Numbers } from "./Numbers";
 import { motion } from "framer-motion";
 
 const heroMenu = [
-  { href: "#Profolio", text: "ผลงานของเรา" },
+  { href: "#Portfolio", text: "ผลงานของเรา" },
   { href: "#Packages", text: "แพ็คเกจของเรา" },
 ];
 
