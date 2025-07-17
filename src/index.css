@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #0A1517;
+  --color-secondary: #34D399;
+  --color-thirdary: #059669
+}
+
+* {
+  font-family: "Noto Sans Thai", "sans-serif";
+}
+
+html {
+  scroll-behavior: smooth
+}
+
+body {
+  background-color: var(--color-primary);
+}
