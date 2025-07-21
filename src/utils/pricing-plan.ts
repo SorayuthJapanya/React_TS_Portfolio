@@ -2,7 +2,7 @@ export const princingPlan = [
   {
     title: "Basic",
     subtitle: "เว็บไซต์หน้าเดียว | Sale Page, Landing Page",
-    price: "1500 ฿",
+    price: "1,999 ฿",
     includeDomainHosting: false,
     revision: 3,
     features: [
@@ -18,7 +18,7 @@ export const princingPlan = [
   {
     title: "Standard",
     subtitle: "เว็บไซต์บริษัท | Business Website",
-    price: "3500 ฿",
+    price: "5,999 ฿",
     includeDomainHosting: false,
     revision: 3,
     features: [
